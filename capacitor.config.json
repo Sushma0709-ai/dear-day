@@ -1,0 +1,12 @@
+{
+  "appId": "com.dearday.app",
+  "appName": "Dear Day",
+  "webDir": "www",
+  "backgroundColor": "#E7E0EC",
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_icon",
+      "iconColor": "#8C57BF"
+    }
+  }
+}

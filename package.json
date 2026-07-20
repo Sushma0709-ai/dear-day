@@ -1,0 +1,17 @@
+{
+  "name": "dear-day",
+  "version": "1.0.0",
+  "description": "Dear Day — journal, to-do list, and gratitude app with native reminders",
+  "scripts": {
+    "sync": "npx cap sync android",
+    "open": "npx cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.1.2",
+    "@capacitor/core": "^6.1.2",
+    "@capacitor/local-notifications": "^6.1.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.1.2"
+  }
+}
