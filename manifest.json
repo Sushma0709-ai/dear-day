@@ -1,0 +1,15 @@
+{
+  "name": "Dear Day — Journal & To-Do",
+  "short_name": "Dear Day",
+  "description": "A daily to-do list, notes, and gratitude journal with reminders.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#E7E0EC",
+  "theme_color": "#8C57BF",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
